@@ -1,0 +1,34 @@
+
+
+1.) z_0001.tif   Actual Result: False   Predicted Result: [False]
+2.) z_0002.tif   Actual Result: False   Predicted Result: [False]
+3.) z_0003.tif   Actual Result: False   Predicted Result: [False]
+4.) z_0004.tif   Actual Result: False   Predicted Result: [False]
+5.) z_0005.tif   Actual Result: False   Predicted Result: [False]
+6.) z_0006.tif   Actual Result: False   Predicted Result: [False]
+7.) z_0007.tif   Actual Result: False   Predicted Result: [False]
+8.) z_0001.tif   Actual Result: False   Predicted Result: [False]
+9.) z_0101.tif   Actual Result: False   Predicted Result: [False]
+10.) z_0102.tif   Actual Result: False   Predicted Result: [False]
+11.) z_0103.tif   Actual Result: False   Predicted Result: [False]
+12.) z_0104.tif   Actual Result: False   Predicted Result: [False]
+13.) z_0105.tif   Actual Result: False   Predicted Result: [False]
+14.) z_0106.tif   Actual Result: False   Predicted Result: [False]
+15.) z_0107.tif   Actual Result: False   Predicted Result: [False]
+16.) z_0108.tif   Actual Result: False   Predicted Result: [False]
+17.) z_0109.tif   Actual Result: False   Predicted Result: [False]
+
+18.) z_0110.tif   Actual Result: False   Predicted Result: [False]
+19.) z_0111.tif   Actual Result: False   Predicted Result: [False]
+20.) z_0112.tif   Actual Result: False   Predicted Result: [False]
+21.) z_0113.tif   Actual Result: False   Predicted Result: [False]
+22.) S_000_597029104   Actual Result: True   Predicted Result: [True]
+
+23.) S_002_241398155   Actual Result: True   Predicted Result: [True]
+24.) S_002_241398155   Actual Result: True   Predicted Result: [True]
+
+
+25.) S_004_833894574   Actual Result: True   Predicted Result: [True]
+26.) S_004_833894574   Actual Result: True   Predicted Result: [True]
+27.) S_004_833894574   Actual Result: True   Predicted Result: [True]
+28.) S_004_833894574   Actual Result: True   Predicted Result: [True]
