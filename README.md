@@ -1,8 +1,8 @@
 # CDAC_2019_Portfolio
 1. Laplacian Blob Detection
-    a) User Input Threshold Model
-        i) Principal Component Analysis 
-    b) Neural Network Model
+    1) User Input Threshold Model
+        1. Principal Component Analysis 
+    2) Neural Network Model
     
 2. Convolutional Neural Network Model
 
